@@ -1,1 +1,1 @@
-# gpt2-image-captioning
+# Image captioning
